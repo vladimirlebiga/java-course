@@ -1,14 +1,13 @@
-package input;
+package theory.input;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-import javax.swing.WindowConstants;
 
 public class InputTypesOptionPane {
 
     public static void main(String[] args) {
 
-        // showInputDialog - asks user to input a value and returns what was inputted
+        // showInputDialog - asks user to theory.input a value and returns what was inputted
         int x = Integer.valueOf(JOptionPane.showInputDialog("Input a number: "));
         int y = Integer.valueOf(JOptionPane.showInputDialog("Input a number: "));
         int sum = x + y;

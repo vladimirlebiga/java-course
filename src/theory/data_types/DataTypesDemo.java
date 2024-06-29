@@ -1,4 +1,4 @@
-package data_types;
+package theory.data_types;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;

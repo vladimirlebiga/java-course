@@ -1,4 +1,4 @@
-package data_types;
+package theory.data_types;
 
 public class DataTypesDifferences {
 

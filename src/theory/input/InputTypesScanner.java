@@ -1,4 +1,4 @@
-package input;
+package theory.input;
 
 import java.util.Scanner;
 
