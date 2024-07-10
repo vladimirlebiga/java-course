@@ -1,0 +1,12 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "word".(úè‚‚
+P
+java:S1854"5Remove this useless assignment to local variable "x".(‹×Åœøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(™›¦èýÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(·ùßóýÿÿÿÿ
+A
+java:S1481"&Remove this unused "x" local variable.(‹×Åœøÿÿÿÿ
+?
+java:S1481")Remove this unused "word" local variable.(úè‚‚
