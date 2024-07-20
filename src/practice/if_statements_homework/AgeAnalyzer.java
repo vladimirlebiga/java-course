@@ -22,6 +22,7 @@ public class AgeAnalyzer {
         // TODO: use one variable and create single block using age
 
         // code here
+        System.out.println("Hello");
 
 
 
